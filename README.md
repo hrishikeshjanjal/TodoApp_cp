@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Hosted URl : [https://todo-app-cp-7510b.web.app/]
+
 ## Available Scripts
 
 In the project directory, you can run:
